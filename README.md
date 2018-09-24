@@ -1,6 +1,7 @@
 ## Rain Removal in Traffic Surveillance: Does it Matter?
 
 This repository contains the evaluation code and scripts for the article *Rain Removal in Traffic Surveillance: Does it Matter?*
+
 The article evaluates the impact of rain removal algorithms on subsequent segmentation, instance segmentation, and feature tracking algorithms. The evaluation scripts of these algorithms are placed in their respective folders. 
 
 As this is a collection of research code, one might find some occational rough edges. We have tried to clean up the code to a decent level but if you encounter a bug or a regular mistake, please report it in our issue tracker. 
